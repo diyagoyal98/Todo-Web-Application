@@ -1,5 +1,5 @@
 # Todo-Web-Application
-This is a todo application in which multiple users according to thier convience can add,delete and edit their todos.
+This is a todo application in which multiple users according to thier convenience can add,delete and edit their todos.
 
 This applicaion supports multipe user login and signup.
 
